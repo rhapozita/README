@@ -1,8 +1,8 @@
 # Hello, Devs! I'm Giovana!👋
 ### Welcome to my Github profile.
-I'm a Computer Science student looking for my first internship in IT.
+I'm a Computer Science student and I am an intern at Deloitte Brasil in the Digital Capital Projects area, working in the technology area.
 I appreciate every collaborative project and help to evolve.
-Currently learning Dta Science and programming.
+Currently learning Data Science and programming.
 
 # Languages e Tools💻
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,6 +21,7 @@ Currently learning Dta Science and programming.
 - Santander Coders 2024 - Data Science
 - Backend Python - Dio
 - ONE + Alura
+- Power BI (Udemy)
 
 # Certificates📃
 - Banco de dados fundamentos | Aprender+ | 2023
